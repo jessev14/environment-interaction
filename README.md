@@ -7,7 +7,7 @@
 
 # Environment Interaction
 
-Environemnt Interaction allows GM users to create "environment tokens" that characters can interact with. These interactions can include weapon attacks, skill checks and saves, and even executing macros.
+Environment Interaction allows GM users to create "environment tokens" that characters can interact with. These interactions can include weapon attacks, skill checks and saves, and even executing macros.
 
 <img src="/img/environment-interaction-demo.gif" height="450"/>
 
