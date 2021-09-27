@@ -1,0 +1,22 @@
+{
+    "name": "environment-interaction",
+    "title": "Environment Interaction",
+    "description": "",
+    "author": "enso#0361",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.8.1",
+    "compatibleCoreVersion": "0.8.9",
+    "esmodules": [
+        "scripts/environment-interaction.js"
+    ],
+    "styles": [
+        "styles/EI.css"
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "./lang/en.json"
+        }
+    ]
+}

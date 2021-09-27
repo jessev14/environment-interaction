@@ -1,0 +1,28 @@
+{
+    "environment-interaction": {
+        "settings": {
+            "closeDialog": {
+                "name": "Automatically Close Interaction Selection Dialog"
+            },
+            "autoProficiency": {
+                "name": "Automatically Add Proficiency Bonus to Attack Rolls"
+            }
+        },
+        "handlebarsHelper": {
+            "Macro": "Macro"
+        },
+        "autoProficiency": {
+            "content": "Add proficiency bonus?"
+        },
+        "interactWithEnvironment": {
+            "openCharacterSheet": "[GM] Open Character Sheet",
+            "selectTokenWarn": "Select a token to interact with environment.",
+            "Check": "Check",
+            "title": "Select Action"
+        },
+        "tokenConfig": {
+            "label": "Environment Token"
+        }
+        
+    }
+}

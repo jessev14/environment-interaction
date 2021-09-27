@@ -1,0 +1,9 @@
+{{#each items}}
+<button class="ei-flex-container" id="{{this.id}}">
+    <img class="ei-icon" src="{{this.img}}" />
+    <div class="ei-item-details">
+        <div class="ei-name">{{this.name}}</div>
+        <div class="ei-type">{{ei-type this}}</div>
+    </div>
+</button>
+{{/each}}
