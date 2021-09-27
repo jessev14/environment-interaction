@@ -9,15 +9,15 @@
 
 Environemnt Interaction allows GM users to create "environment tokens" that characters can interact with. These interactions can include weapon attacks, skill checks and saves, and even executing macros.
 
+<img src="/img/environment-interaction-demo.gif" height="280"/>
+
 
 ## Usage
 An environment token is created like any other token. Once placed on the canvas, the token can be set as an "environment token" using the token configuration window.
 
 Double clicking an environment token will open its Select Action dialog window. GM users will also have a button to open the charcter sheet.
 
-
-<img src="/img/token-config.png" height="280"/>       <img src="/img/action-selection.png" height="280"/>
-
+<img src="/img/token-config.png" height="280"/> <img src="/img/action-selection.png" height="280"/>
 
 Selecting an action will use the currently selected token (player character) as the character performing the action. The action will be rolled and carried out using the character's game stats.
 
