@@ -6,6 +6,9 @@
     "version": "1.0.0",
     "minimumCoreVersion": "0.8.1",
     "compatibleCoreVersion": "0.8.9",
+    "system": [
+        "dnd5e"
+    ],
     "esmodules": [
         "scripts/environment-interaction.js"
     ],
