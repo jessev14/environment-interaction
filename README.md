@@ -33,7 +33,7 @@ The type of interaction an item has depends on its item type:
   - If the item action type is set to "Saving Throw," the chat card will allow the character to perform the corresponding saving throw, based on the saving throw select drop-down.
 * Loot: Loot-type items allow the character to execute a macro. To set the macro to be executed, enter the macro's name (exactly) into the "source" input of the item.
 
-See the [img folder](https://github.com/jessev14/environment-interaction/tree/main/img) for example items.
+See [these images](https://github.com/jessev14/environment-interaction/tree/main/img/example-interactions) for example items.
 
 ### Item Macro
 If an item on an environment token has a set Item Macro, after rolling the item to chat, the Item Macro will be executed.
