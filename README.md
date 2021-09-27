@@ -28,7 +28,9 @@ Interactions are automatically generated from the items on the environment token
 ### Interaction Types
 The type of interaction an item has depends on its item type:
 * Weapon: Function as if the character had the item on its own actor sheet.
-* Consumable: If the item action type is set to "Ability Check," a chat card will be created allowing the character to perform the corresponding check, based on the ability select drop-down. If the item action type is set to "Saving Throw," the chat card will allow the character to perform the corresponding saving throw, based on the saving throw select drop-down.
+* Consumable:
+  - If the item action type is set to "Ability Check," a chat card will be created allowing the character to perform the corresponding check, based on the ability select drop-down.
+  - If the item action type is set to "Saving Throw," the chat card will allow the character to perform the corresponding saving throw, based on the saving throw select drop-down.
 * Loot: Loot-type items allow the character to execute a macro. To set the macro to be executed, enter the macro's name (exactly) into the "source" input of the item.
 
 See the [img folder](https://github.com/jessev14/environment-interaction/tree/main/img) for example items.
