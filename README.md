@@ -49,4 +49,4 @@ When an interaction is selected, the correponding item on the environment token'
 
 A similar method is used to handle attack and damage rolls. When attack/damage buttons are clicked, the weapon is temporarily created on the character's actor sheet and used for the attack/damage roll before being deleted. This allows the character's relevant game stats to be used for the roll.
 
-Feel free to reach out on Discord (enso#0361) if you want to discuss any aspect of the module!
+Feel free to reach out on Discord (`enso#0361`) if you want to discuss any aspect of the module!
