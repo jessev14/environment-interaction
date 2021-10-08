@@ -42,7 +42,7 @@ If an item on an environment token has a set Item Macro, after rolling the item 
 Environment Interaction currently only supports dnd5e, but please reach out if you'd like to help me support your system!
 
 ## Compatibility
-Environment Interactions *should* bec compatible with custom rollers (e.g. Midi-QOL, Better Rolls for 5e, MRE), but please submit an issue if anything seems to not work correctly.
+Environment Interactions *should* be compatible with custom rollers (e.g. Midi-QOL, Better Rolls for 5e, MRE), but please submit an issue if anything seems to not work correctly.
 
 ## Technical Notes
 When an interaction is selected, the correponding item on the environment token's actor sheet is created on the character's actor sheet. After rolling the item to chat, the item is deleted from the character's actor sheet. In this way, the character's actor sheet is the same before and after the interaction.
